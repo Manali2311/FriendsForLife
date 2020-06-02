@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "013f7d835716931711b0e5dd4d10ef4e",
+    "revision": "b15391643037b435e3c39b4f47b3ef82",
     "url": "/FriendsForLife/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FriendsForLife/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "005f6a75de1e829ebe23",
+    "revision": "9c7ce0fdb20351dd5913",
     "url": "/FriendsForLife/static/css/main.1fdd5ac3.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FriendsForLife/static/js/2.2163aba9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "005f6a75de1e829ebe23",
-    "url": "/FriendsForLife/static/js/main.fbcb7d00.chunk.js"
+    "revision": "9c7ce0fdb20351dd5913",
+    "url": "/FriendsForLife/static/js/main.3c9861ad.chunk.js"
   },
   {
     "revision": "3f550d9b4c9769ce12fb",
