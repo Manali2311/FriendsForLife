@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.1fdd5ac3.chunk.css",
-    "main.js": "/static/js/main.d9369b56.chunk.js",
-    "main.js.map": "/static/js/main.d9369b56.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.02907b71.js",
-    "runtime-main.js.map": "/static/js/runtime-main.02907b71.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.2163aba9.chunk.js": "/static/js/2.2163aba9.chunk.js",
-    "static/js/2.2163aba9.chunk.js.map": "/static/js/2.2163aba9.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.321a8166e61107d2c4bbf8f5d1082f98.js": "/precache-manifest.321a8166e61107d2c4bbf8f5d1082f98.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.1fdd5ac3.chunk.css.map": "/static/css/main.1fdd5ac3.chunk.css.map",
-    "static/js/2.2163aba9.chunk.js.LICENSE.txt": "/static/js/2.2163aba9.chunk.js.LICENSE.txt"
+    "main.css": "/FriendsForLife/static/css/main.1fdd5ac3.chunk.css",
+    "main.js": "/FriendsForLife/static/js/main.c8c24d26.chunk.js",
+    "main.js.map": "/FriendsForLife/static/js/main.c8c24d26.chunk.js.map",
+    "runtime-main.js": "/FriendsForLife/static/js/runtime-main.dd957ea7.js",
+    "runtime-main.js.map": "/FriendsForLife/static/js/runtime-main.dd957ea7.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/FriendsForLife/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.2163aba9.chunk.js": "/FriendsForLife/static/js/2.2163aba9.chunk.js",
+    "static/js/2.2163aba9.chunk.js.map": "/FriendsForLife/static/js/2.2163aba9.chunk.js.map",
+    "index.html": "/FriendsForLife/index.html",
+    "precache-manifest.f3973d39364f9d21b9dee8db5574a1a6.js": "/FriendsForLife/precache-manifest.f3973d39364f9d21b9dee8db5574a1a6.js",
+    "service-worker.js": "/FriendsForLife/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/FriendsForLife/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.1fdd5ac3.chunk.css.map": "/FriendsForLife/static/css/main.1fdd5ac3.chunk.css.map",
+    "static/js/2.2163aba9.chunk.js.LICENSE.txt": "/FriendsForLife/static/js/2.2163aba9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.02907b71.js",
+    "static/js/runtime-main.dd957ea7.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.2163aba9.chunk.js",
     "static/css/main.1fdd5ac3.chunk.css",
-    "static/js/main.d9369b56.chunk.js"
+    "static/js/main.c8c24d26.chunk.js"
   ]
 }
