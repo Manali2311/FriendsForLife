@@ -61,9 +61,9 @@ this.setState({
       <br/>
         <div className="formm">
           <div className="head">
-        <img src="/Images/leaf.jpeg" alt="img" className="imgg" />
+        <img src={process.env.PUBLIC_URL + "/Images/leaf.jpeg"} alt="img" className="imgg" />
         <div className="h2">Register Frndzz</div>
-        <img src="/Images/leaf.jpeg" alt="img" className="imgg" />
+        <img src={process.env.PUBLIC_URL + "/Images/leaf.jpeg"} alt="img" className="imgg" />
         </div>
         <br/>
 <InputGroup className="mb-3">
