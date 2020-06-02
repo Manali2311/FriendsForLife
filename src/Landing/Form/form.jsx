@@ -39,7 +39,7 @@ class Form extends React.Component{
       id : 6,
       name : this.state.name,
       email : this.state.email,
-      imgurl: this.state.image,
+      imgurl:"/Images/4854.jpg",
       height : "235px"
     })
 
