@@ -52,11 +52,11 @@ class Heading extends React.Component{
         return(
             <div>
             <div className="top">
-            <img src={process.env.PUBLIC_URL + "/images/leaf4.jpeg"} alt="img" className="img-bird2" />
+            <img src={process.env.PUBLIC_URL + "/Images/leaf4.jpeg"} alt="img" className="img-bird2" />
                 <div className="main-heading">
                     <i><u>Friends are choosen family</u></i>
                     </div>
-            <img src={process.env.PUBLIC_URL + "/images/leaf4.jpeg"} alt="img" className="img-bird" />
+            <img src={process.env.PUBLIC_URL + "/Images/leaf4.jpeg"} alt="img" className="img-bird" />
 
                 </div>
                 {/* <div>
