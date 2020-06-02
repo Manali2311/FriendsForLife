@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/FriendsForLife/static/css/main.1fdd5ac3.chunk.css",
-    "main.js": "/FriendsForLife/static/js/main.c8c24d26.chunk.js",
-    "main.js.map": "/FriendsForLife/static/js/main.c8c24d26.chunk.js.map",
+    "main.js": "/FriendsForLife/static/js/main.09af76c3.chunk.js",
+    "main.js.map": "/FriendsForLife/static/js/main.09af76c3.chunk.js.map",
     "runtime-main.js": "/FriendsForLife/static/js/runtime-main.dd957ea7.js",
     "runtime-main.js.map": "/FriendsForLife/static/js/runtime-main.dd957ea7.js.map",
     "static/css/2.af3c1da9.chunk.css": "/FriendsForLife/static/css/2.af3c1da9.chunk.css",
     "static/js/2.2163aba9.chunk.js": "/FriendsForLife/static/js/2.2163aba9.chunk.js",
     "static/js/2.2163aba9.chunk.js.map": "/FriendsForLife/static/js/2.2163aba9.chunk.js.map",
     "index.html": "/FriendsForLife/index.html",
-    "precache-manifest.f3973d39364f9d21b9dee8db5574a1a6.js": "/FriendsForLife/precache-manifest.f3973d39364f9d21b9dee8db5574a1a6.js",
+    "precache-manifest.0682539b2ddf87bfbceee788901e74ca.js": "/FriendsForLife/precache-manifest.0682539b2ddf87bfbceee788901e74ca.js",
     "service-worker.js": "/FriendsForLife/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/FriendsForLife/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.1fdd5ac3.chunk.css.map": "/FriendsForLife/static/css/main.1fdd5ac3.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.2163aba9.chunk.js",
     "static/css/main.1fdd5ac3.chunk.css",
-    "static/js/main.c8c24d26.chunk.js"
+    "static/js/main.09af76c3.chunk.js"
   ]
 }
