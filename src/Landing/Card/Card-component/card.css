@@ -1,0 +1,75 @@
+.card-compo
+{
+    display: flex;
+    flex-direction: column;
+    /* background-color: black; */
+    color: black;
+    text-align: center;
+    /* padding: 25px; */
+    cursor: pointer;
+    padding-bottom: 10px;
+    overflow: hidden;
+    margin-bottom: 30px;
+    width:30%;
+    height: 340px;
+    position: relative;
+    box-shadow: 1px 5px spx grey;
+}
+.gradient-cover{
+    z-index: 10;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: linear-gradient(to bottom , transparent, rgba(253, 253, 253, 0.8),white);
+    height: -webkit-fill-available;
+    width: -webkit-fill-available;
+}
+.detail-text
+{
+    z-index: 11 !important;
+    width: -webkit-fill-available;
+    height: -webkit-fill-available;
+    display: flex;
+    flex-direction: column;
+}
+/* .img
+{
+    z-index: 10;
+    background: linear-gradient(to bottom right, red , blue);
+} */
+.card-compo:first-child
+{
+width: 48%;
+}
+.card-compo:nth-child(2){
+    width: 48%; 
+}
+
+.card-compo:hover .imggvalue
+{
+    /* z-index: 15 !important; */
+    transition: all 2s;
+    transform: rotateY(180deg);
+    /* display: none; */
+}
+/*  .img:hover{              ////   This is use to rotate full image by 180 on hover  */
+  /*  transition: all 2s;
+    transform: rotateY(180deg);
+   }  */ 
+   @media only screen and (max-width : 768px)
+   {
+    .card-compo
+    {
+        
+        width:100%;
+        
+    }
+    .card-compo:first-child
+{
+width: 100%;
+}
+.card-compo:nth-child(2){
+    width: 100%; 
+}
+
+   }

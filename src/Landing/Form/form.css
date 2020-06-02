@@ -1,0 +1,56 @@
+.h2
+{
+    text-align: center;
+    font-size: 30px;
+}
+.butt{
+    width: 30%;
+    display: block;
+    margin: 0 auto;
+}
+.fri{
+    width: 100%;
+}
+.file{
+    color: tomato;
+    margin-left: 75px;
+    margin-top: -34px;
+}
+.imgg
+{
+    height: 40px;
+}
+.head
+{
+    display: flex;
+    justify-content: center;
+    margin-top: -75px;
+}
+@media only screen and (max-width : 768px)
+{
+    .h2
+{
+    text-align: center;
+    font-size: 14px;
+    margin-top: 11px;
+}
+.formm{
+    width: 100%;
+    margin: 0 auto;
+ }
+ .file{
+    color: tomato;
+    margin-left: 74px;
+    margin-top: -32px;
+    font-size: 14px;
+}
+.butt{
+    width: 32%;
+    font-size: 11px;
+    display: block;
+    margin: 0 auto;
+}
+.fri{
+    width: 100%;
+}
+}
